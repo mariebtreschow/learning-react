@@ -4,8 +4,5 @@
 @import '/components/container';
 @import './components/button';
 @import './components/widget';
-
-$brandcolor : black;
-* {
-  color: $brandcolor;
-}
+@import './components/option';
+@import './components/add-option';
